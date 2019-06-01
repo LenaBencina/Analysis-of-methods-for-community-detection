@@ -1,0 +1,501 @@
+,fs,rand,method
+0,1.0,1.0,louvain
+1,1.0,1.0,louvain
+2,1.0,1.0,louvain
+3,1.0,1.0,louvain
+4,1.0,1.0,louvain
+5,1.0,1.0,louvain
+6,1.0,1.0,louvain
+7,1.0,1.0,louvain
+8,1.0,1.0,louvain
+9,1.0,1.0,louvain
+10,1.0,1.0,louvain
+11,1.0,1.0,louvain
+12,1.0,1.0,louvain
+13,1.0,1.0,louvain
+14,1.0,1.0,louvain
+15,1.0,1.0,louvain
+16,1.0,1.0,louvain
+17,1.0,1.0,louvain
+18,1.0,1.0,louvain
+19,1.0,1.0,louvain
+20,1.0,1.0,louvain
+21,1.0,1.0,louvain
+22,1.0,1.0,louvain
+23,1.0,1.0,louvain
+24,1.0,1.0,louvain
+25,1.0,1.0,louvain
+26,1.0,1.0,louvain
+27,1.0,1.0,louvain
+28,1.0,1.0,louvain
+29,1.0,1.0,louvain
+30,1.0,1.0,louvain
+31,1.0,1.0,louvain
+32,1.0,1.0,louvain
+33,1.0,1.0,louvain
+34,1.0,1.0,louvain
+35,1.0,1.0,louvain
+36,1.0,1.0,louvain
+37,1.0,1.0,louvain
+38,1.0,1.0,louvain
+39,1.0,1.0,louvain
+40,1.0,1.0,louvain
+41,1.0,1.0,louvain
+42,1.0,1.0,louvain
+43,1.0,1.0,louvain
+44,1.0,1.0,louvain
+45,1.0,1.0,louvain
+46,1.0,1.0,louvain
+47,1.0,1.0,louvain
+48,1.0,1.0,louvain
+49,1.0,1.0,louvain
+50,1.0,1.0,louvain
+51,1.0,1.0,louvain
+52,1.0,1.0,louvain
+53,1.0,1.0,louvain
+54,1.0,1.0,louvain
+55,1.0,1.0,louvain
+56,1.0,1.0,louvain
+57,1.0,1.0,louvain
+58,1.0,1.0,louvain
+59,1.0,1.0,louvain
+60,1.0,1.0,louvain
+61,1.0,1.0,louvain
+62,1.0,1.0,louvain
+63,1.0,1.0,louvain
+64,1.0,1.0,louvain
+65,1.0,1.0,louvain
+66,1.0,1.0,louvain
+67,1.0,1.0,louvain
+68,1.0,1.0,louvain
+69,1.0,1.0,louvain
+70,1.0,1.0,louvain
+71,1.0,1.0,louvain
+72,1.0,1.0,louvain
+73,1.0,1.0,louvain
+74,1.0,1.0,louvain
+75,1.0,1.0,louvain
+76,1.0,1.0,louvain
+77,1.0,1.0,louvain
+78,1.0,1.0,louvain
+79,1.0,1.0,louvain
+80,1.0,1.0,louvain
+81,1.0,1.0,louvain
+82,1.0,1.0,louvain
+83,1.0,1.0,louvain
+84,1.0,1.0,louvain
+85,1.0,1.0,louvain
+86,1.0,1.0,louvain
+87,1.0,1.0,louvain
+88,1.0,1.0,louvain
+89,1.0,1.0,louvain
+90,1.0,1.0,louvain
+91,1.0,1.0,louvain
+92,1.0,1.0,louvain
+93,1.0,1.0,louvain
+94,1.0,1.0,louvain
+95,1.0,1.0,louvain
+96,1.0,1.0,louvain
+97,1.0,1.0,louvain
+98,1.0,1.0,louvain
+99,1.0,1.0,louvain
+0,1.0,1.0,directed louvain
+1,1.0,1.0,directed louvain
+2,1.0,1.0,directed louvain
+3,1.0,1.0,directed louvain
+4,1.0,1.0,directed louvain
+5,1.0,1.0,directed louvain
+6,1.0,1.0,directed louvain
+7,1.0,1.0,directed louvain
+8,1.0,1.0,directed louvain
+9,1.0,1.0,directed louvain
+10,1.0,1.0,directed louvain
+11,1.0,1.0,directed louvain
+12,1.0,1.0,directed louvain
+13,1.0,1.0,directed louvain
+14,1.0,1.0,directed louvain
+15,1.0,1.0,directed louvain
+16,1.0,1.0,directed louvain
+17,1.0,1.0,directed louvain
+18,1.0,1.0,directed louvain
+19,1.0,1.0,directed louvain
+20,1.0,1.0,directed louvain
+21,1.0,1.0,directed louvain
+22,1.0,1.0,directed louvain
+23,1.0,1.0,directed louvain
+24,1.0,1.0,directed louvain
+25,1.0,1.0,directed louvain
+26,1.0,1.0,directed louvain
+27,1.0,1.0,directed louvain
+28,1.0,1.0,directed louvain
+29,1.0,1.0,directed louvain
+30,1.0,1.0,directed louvain
+31,1.0,1.0,directed louvain
+32,1.0,1.0,directed louvain
+33,1.0,1.0,directed louvain
+34,1.0,1.0,directed louvain
+35,1.0,1.0,directed louvain
+36,1.0,1.0,directed louvain
+37,1.0,1.0,directed louvain
+38,1.0,1.0,directed louvain
+39,1.0,1.0,directed louvain
+40,1.0,1.0,directed louvain
+41,1.0,1.0,directed louvain
+42,1.0,1.0,directed louvain
+43,1.0,1.0,directed louvain
+44,1.0,1.0,directed louvain
+45,1.0,1.0,directed louvain
+46,1.0,1.0,directed louvain
+47,1.0,1.0,directed louvain
+48,1.0,1.0,directed louvain
+49,1.0,1.0,directed louvain
+50,1.0,1.0,directed louvain
+51,1.0,1.0,directed louvain
+52,1.0,1.0,directed louvain
+53,1.0,1.0,directed louvain
+54,1.0,1.0,directed louvain
+55,1.0,1.0,directed louvain
+56,1.0,1.0,directed louvain
+57,1.0,1.0,directed louvain
+58,1.0,1.0,directed louvain
+59,1.0,1.0,directed louvain
+60,1.0,1.0,directed louvain
+61,1.0,1.0,directed louvain
+62,1.0,1.0,directed louvain
+63,1.0,1.0,directed louvain
+64,1.0,1.0,directed louvain
+65,1.0,1.0,directed louvain
+66,1.0,1.0,directed louvain
+67,1.0,1.0,directed louvain
+68,1.0,1.0,directed louvain
+69,1.0,1.0,directed louvain
+70,1.0,1.0,directed louvain
+71,1.0,1.0,directed louvain
+72,1.0,1.0,directed louvain
+73,1.0,1.0,directed louvain
+74,1.0,1.0,directed louvain
+75,1.0,1.0,directed louvain
+76,1.0,1.0,directed louvain
+77,1.0,1.0,directed louvain
+78,1.0,1.0,directed louvain
+79,1.0,1.0,directed louvain
+80,1.0,1.0,directed louvain
+81,1.0,1.0,directed louvain
+82,1.0,1.0,directed louvain
+83,1.0,1.0,directed louvain
+84,1.0,1.0,directed louvain
+85,1.0,1.0,directed louvain
+86,1.0,1.0,directed louvain
+87,1.0,1.0,directed louvain
+88,1.0,1.0,directed louvain
+89,1.0,1.0,directed louvain
+90,1.0,1.0,directed louvain
+91,1.0,1.0,directed louvain
+92,1.0,1.0,directed louvain
+93,1.0,1.0,directed louvain
+94,1.0,1.0,directed louvain
+95,1.0,1.0,directed louvain
+96,1.0,1.0,directed louvain
+97,1.0,1.0,directed louvain
+98,1.0,1.0,directed louvain
+99,1.0,1.0,directed louvain
+0,1.0,1.0,leiden
+1,1.0,1.0,leiden
+2,1.0,1.0,leiden
+3,1.0,1.0,leiden
+4,1.0,1.0,leiden
+5,1.0,1.0,leiden
+6,1.0,1.0,leiden
+7,1.0,1.0,leiden
+8,1.0,1.0,leiden
+9,1.0,1.0,leiden
+10,1.0,1.0,leiden
+11,1.0,1.0,leiden
+12,1.0,1.0,leiden
+13,1.0,1.0,leiden
+14,1.0,1.0,leiden
+15,1.0,1.0,leiden
+16,1.0,1.0,leiden
+17,1.0,1.0,leiden
+18,1.0,1.0,leiden
+19,1.0,1.0,leiden
+20,1.0,1.0,leiden
+21,1.0,1.0,leiden
+22,1.0,1.0,leiden
+23,1.0,1.0,leiden
+24,1.0,1.0,leiden
+25,1.0,1.0,leiden
+26,1.0,1.0,leiden
+27,1.0,1.0,leiden
+28,1.0,1.0,leiden
+29,1.0,1.0,leiden
+30,1.0,1.0,leiden
+31,1.0,1.0,leiden
+32,1.0,1.0,leiden
+33,1.0,1.0,leiden
+34,1.0,1.0,leiden
+35,1.0,1.0,leiden
+36,1.0,1.0,leiden
+37,1.0,1.0,leiden
+38,1.0,1.0,leiden
+39,1.0,1.0,leiden
+40,1.0,1.0,leiden
+41,1.0,1.0,leiden
+42,1.0,1.0,leiden
+43,1.0,1.0,leiden
+44,1.0,1.0,leiden
+45,1.0,1.0,leiden
+46,1.0,1.0,leiden
+47,1.0,1.0,leiden
+48,1.0,1.0,leiden
+49,0.9980170080021199,0.9995235235235234,leiden
+50,1.0,1.0,leiden
+51,1.0,1.0,leiden
+52,1.0,1.0,leiden
+53,1.0,1.0,leiden
+54,1.0,1.0,leiden
+55,1.0,1.0,leiden
+56,1.0,1.0,leiden
+57,1.0,1.0,leiden
+58,1.0,1.0,leiden
+59,1.0,1.0,leiden
+60,1.0,1.0,leiden
+61,1.0,1.0,leiden
+62,1.0,1.0,leiden
+63,1.0,1.0,leiden
+64,1.0,1.0,leiden
+65,1.0,1.0,leiden
+66,1.0,1.0,leiden
+67,1.0,1.0,leiden
+68,1.0,1.0,leiden
+69,1.0,1.0,leiden
+70,1.0,1.0,leiden
+71,1.0,1.0,leiden
+72,1.0,1.0,leiden
+73,1.0,1.0,leiden
+74,1.0,1.0,leiden
+75,1.0,1.0,leiden
+76,1.0,1.0,leiden
+77,1.0,1.0,leiden
+78,1.0,1.0,leiden
+79,1.0,1.0,leiden
+80,1.0,1.0,leiden
+81,1.0,1.0,leiden
+82,1.0,1.0,leiden
+83,1.0,1.0,leiden
+84,1.0,1.0,leiden
+85,1.0,1.0,leiden
+86,1.0,1.0,leiden
+87,1.0,1.0,leiden
+88,1.0,1.0,leiden
+89,1.0,1.0,leiden
+90,1.0,1.0,leiden
+91,1.0,1.0,leiden
+92,1.0,1.0,leiden
+93,1.0,1.0,leiden
+94,1.0,1.0,leiden
+95,1.0,1.0,leiden
+96,1.0,1.0,leiden
+97,1.0,1.0,leiden
+98,1.0,1.0,leiden
+99,1.0,1.0,leiden
+0,1.0,1.0,infomap
+1,1.0,1.0,infomap
+2,1.0,1.0,infomap
+3,1.0,1.0,infomap
+4,1.0,1.0,infomap
+5,1.0,1.0,infomap
+6,1.0,1.0,infomap
+7,1.0,1.0,infomap
+8,0.9256070126444806,0.9616016016016016,infomap
+9,1.0,1.0,infomap
+10,1.0,1.0,infomap
+11,1.0,1.0,infomap
+12,1.0,1.0,infomap
+13,1.0,1.0,infomap
+14,1.0,1.0,infomap
+15,1.0,1.0,infomap
+16,1.0,1.0,infomap
+17,1.0,1.0,infomap
+18,1.0,1.0,infomap
+19,1.0,1.0,infomap
+20,1.0,1.0,infomap
+21,1.0,1.0,infomap
+22,1.0,1.0,infomap
+23,1.0,1.0,infomap
+24,1.0,1.0,infomap
+25,1.0,1.0,infomap
+26,1.0,1.0,infomap
+27,1.0,1.0,infomap
+28,1.0,1.0,infomap
+29,1.0,1.0,infomap
+30,1.0,1.0,infomap
+31,1.0,1.0,infomap
+32,1.0,1.0,infomap
+33,1.0,1.0,infomap
+34,1.0,1.0,infomap
+35,1.0,1.0,infomap
+36,1.0,1.0,infomap
+37,1.0,1.0,infomap
+38,1.0,1.0,infomap
+39,1.0,1.0,infomap
+40,1.0,1.0,infomap
+41,1.0,1.0,infomap
+42,1.0,1.0,infomap
+43,1.0,1.0,infomap
+44,1.0,1.0,infomap
+45,1.0,1.0,infomap
+46,1.0,1.0,infomap
+47,1.0,1.0,infomap
+48,1.0,1.0,infomap
+49,1.0,1.0,infomap
+50,1.0,1.0,infomap
+51,1.0,1.0,infomap
+52,1.0,1.0,infomap
+53,1.0,1.0,infomap
+54,1.0,1.0,infomap
+55,1.0,1.0,infomap
+56,1.0,1.0,infomap
+57,1.0,1.0,infomap
+58,1.0,1.0,infomap
+59,1.0,1.0,infomap
+60,1.0,1.0,infomap
+61,1.0,1.0,infomap
+62,1.0,1.0,infomap
+63,1.0,1.0,infomap
+64,1.0,1.0,infomap
+65,1.0,1.0,infomap
+66,1.0,1.0,infomap
+67,1.0,1.0,infomap
+68,1.0,1.0,infomap
+69,1.0,1.0,infomap
+70,1.0,1.0,infomap
+71,1.0,1.0,infomap
+72,1.0,1.0,infomap
+73,1.0,1.0,infomap
+74,1.0,1.0,infomap
+75,1.0,1.0,infomap
+76,1.0,1.0,infomap
+77,1.0,1.0,infomap
+78,1.0,1.0,infomap
+79,1.0,1.0,infomap
+80,1.0,1.0,infomap
+81,1.0,1.0,infomap
+82,1.0,1.0,infomap
+83,1.0,1.0,infomap
+84,1.0,1.0,infomap
+85,1.0,1.0,infomap
+86,1.0,1.0,infomap
+87,1.0,1.0,infomap
+88,1.0,1.0,infomap
+89,1.0,1.0,infomap
+90,1.0,1.0,infomap
+91,1.0,1.0,infomap
+92,1.0,1.0,infomap
+93,1.0,1.0,infomap
+94,1.0,1.0,infomap
+95,1.0,1.0,infomap
+96,1.0,1.0,infomap
+97,1.0,1.0,infomap
+98,1.0,1.0,infomap
+99,1.0,1.0,infomap
+0,1.0,1.0,oslom
+1,1.0,1.0,oslom
+2,1.0,1.0,oslom
+3,1.0,1.0,oslom
+4,1.0,1.0,oslom
+5,1.0,1.0,oslom
+6,1.0,1.0,oslom
+7,1.0,1.0,oslom
+8,1.0,1.0,oslom
+9,1.0,1.0,oslom
+10,1.0,1.0,oslom
+11,1.0,1.0,oslom
+12,1.0,1.0,oslom
+13,1.0,1.0,oslom
+14,1.0,1.0,oslom
+15,1.0,1.0,oslom
+16,1.0,1.0,oslom
+17,1.0,1.0,oslom
+18,1.0,1.0,oslom
+19,1.0,1.0,oslom
+20,1.0,1.0,oslom
+21,1.0,1.0,oslom
+22,1.0,1.0,oslom
+23,1.0,1.0,oslom
+24,1.0,1.0,oslom
+25,1.0,1.0,oslom
+26,1.0,1.0,oslom
+27,1.0,1.0,oslom
+28,1.0,1.0,oslom
+29,1.0,1.0,oslom
+30,1.0,1.0,oslom
+31,1.0,1.0,oslom
+32,1.0,1.0,oslom
+33,1.0,1.0,oslom
+34,1.0,1.0,oslom
+35,1.0,1.0,oslom
+36,1.0,1.0,oslom
+37,1.0,1.0,oslom
+38,1.0,1.0,oslom
+39,1.0,1.0,oslom
+40,1.0,1.0,oslom
+41,1.0,1.0,oslom
+42,1.0,1.0,oslom
+43,1.0,1.0,oslom
+44,1.0,1.0,oslom
+45,1.0,1.0,oslom
+46,1.0,1.0,oslom
+47,1.0,1.0,oslom
+48,1.0,1.0,oslom
+49,1.0,1.0,oslom
+50,1.0,1.0,oslom
+51,1.0,1.0,oslom
+52,1.0,1.0,oslom
+53,1.0,1.0,oslom
+54,1.0,1.0,oslom
+55,1.0,1.0,oslom
+56,1.0,1.0,oslom
+57,1.0,1.0,oslom
+58,1.0,1.0,oslom
+59,1.0,1.0,oslom
+60,1.0,1.0,oslom
+61,1.0,1.0,oslom
+62,1.0,1.0,oslom
+63,1.0,1.0,oslom
+64,1.0,1.0,oslom
+65,1.0,1.0,oslom
+66,1.0,1.0,oslom
+67,1.0,1.0,oslom
+68,1.0,1.0,oslom
+69,1.0,1.0,oslom
+70,1.0,1.0,oslom
+71,1.0,1.0,oslom
+72,1.0,1.0,oslom
+73,1.0,1.0,oslom
+74,1.0,1.0,oslom
+75,1.0,1.0,oslom
+76,1.0,1.0,oslom
+77,1.0,1.0,oslom
+78,1.0,1.0,oslom
+79,1.0,1.0,oslom
+80,1.0,1.0,oslom
+81,1.0,1.0,oslom
+82,1.0,1.0,oslom
+83,1.0,1.0,oslom
+84,1.0,1.0,oslom
+85,1.0,1.0,oslom
+86,1.0,1.0,oslom
+87,1.0,1.0,oslom
+88,1.0,1.0,oslom
+89,1.0,1.0,oslom
+90,1.0,1.0,oslom
+91,1.0,1.0,oslom
+92,1.0,1.0,oslom
+93,1.0,1.0,oslom
+94,1.0,1.0,oslom
+95,1.0,1.0,oslom
+96,1.0,1.0,oslom
+97,1.0,1.0,oslom
+98,1.0,1.0,oslom
+99,1.0,1.0,oslom
