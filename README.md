@@ -1,6 +1,6 @@
 # Project description
 
-This is the practical part of my master's thesis research where the main subject is the comparison of methods for community detection. The focus was on methods adjusted for directed and weighted networks which made the analysis more complexed. The main reference is the paper [Clustering and Community Detection in Directed Networks: A Survey](https://arxiv.org/abs/1308.0971).
+This is the practical part of my master's thesis research where the main subject is the comparison of methods for community detection. The focus was on methods adjusted for directed and weighted networks which made the analysis even more complex. The main reference is the paper [Clustering and Community Detection in Directed Networks: A Survey](https://arxiv.org/abs/1308.0971).
 
 **Abstract**
 
